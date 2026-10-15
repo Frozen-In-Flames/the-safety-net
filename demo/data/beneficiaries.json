@@ -1,0 +1,26 @@
+{
+  "BEN-001": {
+    "id": "BEN-001",
+    "program": "retirement",
+    "amount": 1200.0,
+    "schedule": "monthly",
+    "enrolled_at": "2026-10-15T20:10:40.651807+00:00",
+    "source": "nation benefits ledger"
+  },
+  "BEN-002": {
+    "id": "BEN-002",
+    "program": "disability",
+    "amount": 900.0,
+    "schedule": "monthly",
+    "enrolled_at": "2026-10-15T20:10:40.707535+00:00",
+    "source": "nation benefits ledger"
+  },
+  "BEN-003": {
+    "id": "BEN-003",
+    "program": "survivor",
+    "amount": 750.0,
+    "schedule": "biweekly",
+    "enrolled_at": "2026-10-15T20:10:40.813094+00:00",
+    "source": "nation benefits ledger"
+  }
+}

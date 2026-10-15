@@ -1,0 +1,24 @@
+[
+  {
+    "id": "DIP-0001",
+    "counterparty": "Atlantis",
+    "type": "treaty",
+    "date": "2026-01-15",
+    "status": "active",
+    "summary": "Mutual recognition and trade",
+    "review_date": "2027-01-15",
+    "logged_at": "2026-10-15T20:10:41.372916+00:00",
+    "source": "nation diplomacy log"
+  },
+  {
+    "id": "DIP-0002",
+    "counterparty": "Pacifica",
+    "type": "summit",
+    "date": "2026-06-01",
+    "status": "active",
+    "summary": "Regional disaster-response coordination",
+    "review_date": null,
+    "logged_at": "2026-10-15T20:10:41.427328+00:00",
+    "source": "nation diplomacy log"
+  }
+]

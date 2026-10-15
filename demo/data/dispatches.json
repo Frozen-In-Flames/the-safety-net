@@ -1,0 +1,18 @@
+[
+  {
+    "incident": "INC-0001",
+    "locality": "Riverside",
+    "dispatched_at": "2026-10-15T20:10:41.318681+00:00",
+    "allocations": {
+      "blankets": 1000,
+      "food": 2000,
+      "medical": 100,
+      "water": 2000
+    },
+    "unmet": {
+      "shelter_kits": 500
+    },
+    "note": "planning units from severity table, not promises",
+    "source": "nation disaster registry"
+  }
+]

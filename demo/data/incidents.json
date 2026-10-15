@@ -1,0 +1,11 @@
+{
+  "INC-0001": {
+    "id": "INC-0001",
+    "type": "flood",
+    "locality": "Riverside",
+    "severity": 3,
+    "status": "responding",
+    "reported_at": "2026-10-15T20:10:41.267847+00:00",
+    "source": "nation disaster registry"
+  }
+}
