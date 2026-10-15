@@ -8,17 +8,17 @@ reverse-SDG build sequence. The final step.
 Every federal agency is one class with one job. This build centralizes
 the three welfare classes:
 
-- `Benefits` — one job: payments go out on time. A benefits ledger
+- `Benefits`: one job: payments go out on time. A benefits ledger
   with pseudonymous beneficiary records (id, program, amount,
   schedule). Payment runs mark every due payment paid with a
   timestamp, and the on-time rate readout shows the share of due
   payments paid inside their window.
-- `Disaster` — one job: show up with resources when it hits. A
+- `Disaster`: one job: show up with resources when it hits. A
   resource inventory (depot, resource type, quantity) plus incident
   records (type, locality, severity, status). The dispatch coordinator
   allocates depot stock to open incidents and reports unmet need in
   planning units.
-- `Diplomacy` — one job: talk before fighting. A treaty and
+- `Diplomacy`: one job: talk before fighting. A treaty and
   communications log (counterparty, type, date, status, summary) with
   an upcoming-obligations readout keyed on review dates, so no
   commitment slips quietly.
